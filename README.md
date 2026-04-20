@@ -8,7 +8,7 @@ I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University (
 
 ### 🧠 What I work with
 
-`Python` `Machine Learning` `K-Means Clustering` `Data Preprocessing` `Data Visualization` `Software Design` `Dashboard Development`
+`Python` `Machine Learning` `Data Preprocessing` `Data Visualization` `Software Design` `Dashboard Development`
 
 ---
 
