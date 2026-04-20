@@ -2,7 +2,9 @@
 
 **AI Student · Machine Learning · Data Science**
 
-I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University , passionate about building intelligent systems and solving real-world problems through data-driven approaches. I enjoy working across the full ML pipeline — from raw data to deployed models — and love collaborating with teams to turn ideas into solutions.
+Artificial Intelligence major at Imam Abdulrahman Bin Faisal University. Passionate about AI and experienced in machine 
+learning, data analysis, and software design. Enjoys solving problems, thinking critically, and collaborating with teams to 
+develop innovative solutions.
 
 ---
 
