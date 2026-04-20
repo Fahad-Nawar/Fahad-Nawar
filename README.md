@@ -22,4 +22,4 @@ I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University (
 
 ---
 
-📍 AL-Kober  ·  📧 fahadalfard00@gmail.com  ·  📱 0507920871
+📍 AL-Kobar  ·  📧 fahadalfard00@gmail.com  ·  📱 0507920871
