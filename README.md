@@ -2,7 +2,7 @@
 
 **AI Student · Machine Learning · Data Science**
 
-I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University (GPA: 3.53/4.0), passionate about building intelligent systems and solving real-world problems through data-driven approaches. I enjoy working across the full ML pipeline — from raw data to deployed models — and love collaborating with teams to turn ideas into solutions.
+I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University , passionate about building intelligent systems and solving real-world problems through data-driven approaches. I enjoy working across the full ML pipeline — from raw data to deployed models — and love collaborating with teams to turn ideas into solutions.
 
 ---
 
