@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Fahad 👋
 
-<!--
-**Fahad-Nawar/Fahad-Nawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Student · Machine Learning · Data Science**
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence major at Imam Abdulrahman Bin Faisal University (GPA: 3.53/4.0), passionate about building intelligent systems and solving real-world problems through data-driven approaches. I enjoy working across the full ML pipeline — from raw data to deployed models — and love collaborating with teams to turn ideas into solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I work with
+
+`Python` `Machine Learning` `K-Means Clustering` `Data Preprocessing` `Data Visualization` `Software Design` `Dashboard Development`
+
+---
+
+### 🚀 Featured Projects
+
+**University Lost & Found System**
+> Designed the software architecture for a secure web platform to manage lost and found items on campus — including system components, database design, and SDD documentation.
+
+**Dietary Habits Analysis with Unsupervised Learning**
+> Applied K-Means and Hierarchical Clustering on nutritional datasets to uncover behavioral patterns in eating habits through feature selection and analysis.
+
+---
+
+📍 Saudi Arabia  ·  📧 fahadalfard00@gmail.com  ·  📱 0507920871
